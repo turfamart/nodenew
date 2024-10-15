@@ -1,3 +1,3 @@
-console.log('hello world')
-           console.log('hello world');
-           ssss
+const people = require('./people');
+
+console.log(people);
